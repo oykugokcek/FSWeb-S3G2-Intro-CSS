@@ -1,0 +1,25 @@
+h1 {
+    color:red;
+}
+
+
+
+nav{
+  text-align: center;  
+}
+
+nav a {
+    margin: 50px;
+    padding: 20px;
+    background-color: red;
+    border-radius: 20px;
+}
+.paragraph-box{
+    padding: 50px;
+    background-color:#DDB9A3;
+}
+.header-img
+{
+    margin: 75px;
+}
+
